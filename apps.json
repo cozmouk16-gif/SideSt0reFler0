@@ -1,0 +1,19 @@
+{
+  "name": "sp67 Flero Repository",
+  "identifier": "com.sp67.flerorepo",
+  "sourceURL": "https://github.io",
+  "iconURL": "https://github.io",
+  "apps": [
+    {
+      "name": "Flero Client",
+      "bundleIdentifier": "com.speedyfriend.flero",
+      "developerName": "sp67",
+      "version": "0.0.9-4",
+      "versionDate": "2026-06-13T18:30:00Z",
+      "versionDescription": "Flero v0.0.9-4 release build. Resolves crashing bugs on specific iOS revisions, refines the built-in click pack importer, and optimizes shader rendering.",
+      "downloadURL": "https://github.com",
+      "localizedDescription": "The premier free Geometry Dash mod menu for iOS. Features 50+ built-in mods, Frame Stepper, custom click sounds, ImGui interface, and custom shaders without jailbreak or JIT.",
+      "iconURL": "https://github.io"
+    }
+  ]
+}
